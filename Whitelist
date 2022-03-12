@@ -1,2 +1,5 @@
 -- This is a very powerful whitelist system! Good Luck
 
+if key == "zwd" then
+load(UsherV1)
+end
